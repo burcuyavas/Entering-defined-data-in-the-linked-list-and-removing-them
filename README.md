@@ -1,5 +1,5 @@
-# Entering-defined-data-in-the-linked-list-and-removing-them
+# Entering Defined Data In The Linked List & Removing Them
 
 ## This program:
-## Enter user-defined data into the linked list,
-## It can delete the node specified by the user and display all the elements in the list.
+## Enters user-defined data into the linked list,
+## Can delete the node specified by the user and display all the elements in the list.
